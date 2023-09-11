@@ -1,0 +1,13 @@
+.detalhes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.detalhes img {
+  width: 10rem;
+  border-radius: 50%;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, .14);
+  margin: 0 auto;
+}

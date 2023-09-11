@@ -1,0 +1,7 @@
+img {
+  display: block;
+  width: 95%;
+  max-width: 800px;
+  margin: 5rem auto;
+  opacity: .7;
+}
